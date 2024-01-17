@@ -8,5 +8,5 @@ resource "aws_instance" "ecom_server" {
 
   tags = {
     Name = "ecom_server"
-  }
+  }
 }
