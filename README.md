@@ -178,6 +178,4 @@ variable "region" {
 - [ ] Wishlist functionality
 - [ ] Multi-language support
 
----
 
-**Made with ❤️ by the Development Team**
