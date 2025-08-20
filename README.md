@@ -168,13 +168,6 @@ variable "region" {
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-## 📞 Contact
-
-- **Email**: contact@example.com
-- **Phone**: +94XXXXXXXXX
-- **Website**: [Your Website]
-
 ## 🔗 External Resources
 
 - [Bootstrap 4.5 Documentation](https://getbootstrap.com/docs/4.5/)
